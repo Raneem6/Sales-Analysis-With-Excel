@@ -49,13 +49,13 @@ This makes the dashboard lightweight, easy to use, and portable.
 ## 📁 Files Included
 
 - `Sales-Analysis-With-Excel.xlsx` – The interactive Excel dashboard  
-- `images/dashboard_preview.png` – Screenshot of the dashboard for quick preview  
+- `dashboard_preview.png` – Screenshot of the dashboard for quick preview  
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
