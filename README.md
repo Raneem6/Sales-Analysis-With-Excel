@@ -55,7 +55,8 @@ This makes the dashboard lightweight, easy to use, and portable.
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview..png
+)
 
 ---
 
