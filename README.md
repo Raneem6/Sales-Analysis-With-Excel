@@ -58,7 +58,7 @@ This makes the dashboard lightweight, easy to use, and portable.
 ![Dashboard Preview](dashboard_preview..png
 )
 
----
+--
 
 ## 📝 Author
 
