@@ -1,41 +1,43 @@
 # Excel Sales Analysis Dashboard
 
-An interactive sales analysis project built entirely in Microsoft Excel using PivotTables, slicers, and dynamic charts.
+Interactive sales-analysis dashboard built entirely in Microsoft Excel using PivotTables, slicers, and dynamic charts.
 
-![Excel sales dashboard preview](dashboard_preview..png)
+![Dashboard preview](dashboard_preview..png)
 
-## Objective
+## Project Overview
 
-Create an accessible Excel-based dashboard that allows users to explore sales performance without requiring a dedicated BI platform.
+The project demonstrates how Excel can be used as a practical business-analysis and reporting tool without relying on a dedicated BI platform.
 
-## Dashboard capabilities
+## Dashboard Capabilities
 
 - Analyze sales by city, month, channel, customer type, customer, product, and gender
 - Filter by manager, employee, product category, year, quarter, and month
-- Review customer satisfaction and sales patterns interactively
-- Use slicers and PivotTables to move quickly between business views
+- Explore customer satisfaction and sales patterns
+- Move between business views using PivotTables and slicers
 
-## Tools and techniques
+## Tools & Skills
 
-- Microsoft Excel
-- PivotTables
-- Slicers
-- Dynamic charts
-- Interactive dashboard design
+**Microsoft Excel** · **PivotTables** · **Slicers** · **Dynamic Charts** · **Dashboard Design** · **Business Reporting**
 
-## Files
+## Repository Files
 
 - `Sales-Analysis-With-Excel.xlsx` — interactive workbook
 - `dashboard_preview..png` — dashboard preview
 
-## Related project
+## How to Explore
 
-This Excel dashboard complements the Power BI version of the analysis: [Power BI Sales Analysis Dashboard](https://github.com/Raneem6/Power-BI-Sales-Analysis-Dashboard).
+Download the Excel workbook and open it in Microsoft Excel. Use the slicers and dashboard controls to interact with the analysis.
 
-## Project note
+## Related Project
 
-The dataset is used for portfolio and learning purposes. The project demonstrates practical Excel analysis, reporting, and visualization skills.
+A Power BI version of sales analysis is also available in my GitHub portfolio:  
+[Power BI Sales Analysis Dashboard](https://github.com/Raneem6/Sales-Data-Analysis-Dashboard)
+
+## Portfolio Note
+
+This project uses portfolio/practice data and demonstrates Excel-based analysis, reporting, and data-visualization skills.
 
 ## Author
 
-Raneem Alzahrani · [LinkedIn](https://www.linkedin.com/in/raneem-alzhrani-/) · [Portfolio](https://sites.google.com/view/raneemalzahrany/home)
+**Raneem Alzahrani**  
+[LinkedIn](https://www.linkedin.com/in/raneem-alzhrani-/) · [Portfolio](https://sites.google.com/view/raneemalzahrany/home) · [GitHub](https://github.com/Raneem6)
