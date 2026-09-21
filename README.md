@@ -1,67 +1,41 @@
-# 📊 Sales Analysis with Excel
+# Excel Sales Analysis Dashboard
 
-This project is an interactive sales dashboard built entirely in **Microsoft Excel**, based on the same dataset used in my previous Power BI project:
+An interactive sales analysis project built entirely in Microsoft Excel using PivotTables, slicers, and dynamic charts.
 
-🔗 [Sales-Data-Analysis-Dashboard (Power BI)](https://github.com/Raneem6/Sales-Data-Analysis-Dashboard)
+![Excel sales dashboard preview](dashboard_preview..png)
 
----
+## Objective
 
-## 🔁 Overview
+Create an accessible Excel-based dashboard that allows users to explore sales performance without requiring a dedicated BI platform.
 
-The goal of this Excel version is to make the sales analysis accessible without needing specialized tools like Power BI. It uses built-in Excel features such as:
+## Dashboard capabilities
 
-- Pivot Tables  
-- Slicers  
-- Dynamic Charts  
+- Analyze sales by city, month, channel, customer type, customer, product, and gender
+- Filter by manager, employee, product category, year, quarter, and month
+- Review customer satisfaction and sales patterns interactively
+- Use slicers and PivotTables to move quickly between business views
 
-This makes the dashboard lightweight, easy to use, and portable.
+## Tools and techniques
 
----
+- Microsoft Excel
+- PivotTables
+- Slicers
+- Dynamic charts
+- Interactive dashboard design
 
-## 🧰 Tools Used
+## Files
 
-- Microsoft Excel  
-- Pivot Tables  
-- Slicers  
-- Charts  
+- `Sales-Analysis-With-Excel.xlsx` — interactive workbook
+- `dashboard_preview..png` — dashboard preview
 
----
+## Related project
 
-## 📊 Dashboard Features
+This Excel dashboard complements the Power BI version of the analysis: [Power BI Sales Analysis Dashboard](https://github.com/Raneem6/Power-BI-Sales-Analysis-Dashboard).
 
-- **Customer Satisfaction Breakdown**  
-- **Sales Analysis by**:  
-  - City  
-  - Month  
-  - Channel (Online vs. Store)  
-  - Customer Type (Loyal vs. New)  
-  - Customer  
-  - Product  
-  - Gender  
+## Project note
 
-- **Dynamic Filters**:  
-  - Manager & Employee Names  
-  - Product Categories  
-  - Year / Quarter / Month  
+The dataset is used for portfolio and learning purposes. The project demonstrates practical Excel analysis, reporting, and visualization skills.
 
----
+## Author
 
-## 📁 Files Included
-
-- `Sales-Analysis-With-Excel.xlsx` – The interactive Excel dashboard  
-- `dashboard_preview.png` – Screenshot of the dashboard for quick preview  
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Preview](dashboard_preview..png
-)
-
---
-
-## 📝 Author
-
-Created by **Raneem**  
-Check out the original Power BI version here:  
-👉 [Sales-Data-Analysis-Dashboard](https://github.com/Raneem6/Sales-Data-Analysis-Dashboard)
+Raneem Alzahrani · [LinkedIn](https://www.linkedin.com/in/raneem-alzhrani-/) · [Portfolio](https://sites.google.com/view/raneemalzahrany/home)
